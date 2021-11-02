@@ -1,0 +1,12 @@
+body 
+{ background-color:#333333;
+color:#fff;
+text-align:center;
+}
+nav ul {
+    display:flex;
+}
+.container{
+    max-width: 1000px;
+    margin:auto;
+}
