@@ -1,0 +1,63 @@
+<html>
+<head>
+
+  <title>
+  Greetings, I'm Jonathan Perez
+  </title>
+  </head>
+  
+  <body>
+
+  <header>tag
+  <image>tag pic of myself
+  <p>I love working with projects that help me understand what users like best and what people don’t like or prefer. 
+
+Something personal about me is that if I don’t satisfy other people needs from my UI work and research, I won’t stop trying to find a solution out of it until I do. 
+
+Doing research, is one of the most important and interesting things in this job field because I get to experience users minds and how they work using the internet. This allows me to get useful information for users to have a better experience using the product for the company
+ 
+ <button>DownloadResume</button>
+
+  <div>tag
+
+  
+  <img src=" " alt="me lifting" width="500" height="600">
+
+   <nav>tag inline-block
+
+
+
+
+  </body>
+
+    <h1>About Me</h1>
+  
+  <style>
+    body 
+    { background-color:red;
+    color:#fff;
+    text-align:center;
+    }
+  </style>
+  <footer>
+  
+  <ul>
+  <li>something</li>
+  <li>something</li>
+  <li>something</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  </footer>
+  
+  </html>
+
