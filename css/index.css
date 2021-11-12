@@ -34,7 +34,7 @@ text-align:center;
 }
 .heroimg {
     background-size: cover;
-background-image: url("../IMAGES/hero.jpg");
+background-image: url("../images/hero.jpg");
 background-repeat:no-repeat;
 display:flex;
 flex-direction:column;
